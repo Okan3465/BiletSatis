@@ -4522,11 +4522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.WebUI\\VanGoluCanavari.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.WebUI\\VanGoluCanavari.WebUI.csproj",
       "projectName": "VanGoluCanavari.WebUI",
-      "projectPath": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.WebUI\\VanGoluCanavari.WebUI.csproj",
+      "projectPath": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.WebUI\\VanGoluCanavari.WebUI.csproj",
       "packagesPath": "C:\\Users\\Okan Karakoç\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4547,11 +4547,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.Business\\VanGoluCanavari.Business.csproj": {
-              "projectPath": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.Business\\VanGoluCanavari.Business.csproj"
+            "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.Business\\VanGoluCanavari.Business.csproj": {
+              "projectPath": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.Business\\VanGoluCanavari.Business.csproj"
             },
-            "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.Data\\VanGoluCanavari.Data.csproj": {
-              "projectPath": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.Data\\VanGoluCanavari.Data.csproj"
+            "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.Data\\VanGoluCanavari.Data.csproj": {
+              "projectPath": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.Data\\VanGoluCanavari.Data.csproj"
             }
           }
         }

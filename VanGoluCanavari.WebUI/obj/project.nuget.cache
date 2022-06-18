@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+lKwovZcfOzVdx5nRqRPblaMeYF5n8NuQIpZqw2uVucJ2EVNsj9SKkxonbJ3QLAnAgCN7ywEIYvE/VesEoLPg==",
+  "dgSpecHash": "xNs12EbEXOBb1/LL0oX5jSicjWbNyhagBRPl7BKrhOzczV52+N3THHl+OOyIBFv+Ux8vZJ4yT5slv1EUTQLytA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.WebUI\\VanGoluCanavari.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.WebUI\\VanGoluCanavari.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Okan Karakoç\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Okan Karakoç\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

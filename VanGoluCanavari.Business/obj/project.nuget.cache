@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSuknkLW2uv+HBFKWwGKsY+4SgVeP2JzhMrtFqSl0Oj7vCcZ11XqS/a2o+u8lNEQ1N3mzY2L2UO5vYqQrzk4Sw==",
+  "dgSpecHash": "yKPYDS0DizeUuRQaE/MT89Bv2YWi+3pENX8j1e+yLF7ULgW4uJhbt8rGDADYKtoaNz3rAW9B9TIJHV5TkgsSGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Okan Karakoç\\source\\repos\\VanGoluCanavari\\VanGoluCanavari.Business\\VanGoluCanavari.Business.csproj",
+  "projectFilePath": "C:\\Users\\Okan Karakoç\\Desktop\\Yeni klasör\\BiletSatis\\VanGoluCanavari.Business\\VanGoluCanavari.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Okan Karakoç\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.16\\microsoft.data.sqlite.core.5.0.16.nupkg.sha512",
     "C:\\Users\\Okan Karakoç\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

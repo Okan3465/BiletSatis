@@ -29,7 +29,7 @@ namespace VanGoluCanavari.WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<ITicketService, TicketManager>();
-            services.AddScoped<ITicketRepository, EfCoreTicketRepository>();
+           
 
             services.AddScoped<IRouteRepository, EfCoreRouteRepository>();
             services.AddScoped<IRouteService, RouteManager>();
