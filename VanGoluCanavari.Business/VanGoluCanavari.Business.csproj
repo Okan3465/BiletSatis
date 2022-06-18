@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VanGoluCanavari.Data\VanGoluCanavari.Data.csproj" />
+    <ProjectReference Include="..\VanGoluCanavari.Entity\VanGoluCanavari.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

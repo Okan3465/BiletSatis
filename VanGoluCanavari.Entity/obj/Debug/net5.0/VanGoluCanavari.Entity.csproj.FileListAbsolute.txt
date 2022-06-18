@@ -1,0 +1,12 @@
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\bin\Debug\net5.0\VanGoluCanavari.Entity.deps.json
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\bin\Debug\net5.0\VanGoluCanavari.Entity.dll
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\bin\Debug\net5.0\ref\VanGoluCanavari.Entity.dll
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\bin\Debug\net5.0\VanGoluCanavari.Entity.pdb
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.AssemblyInfoInputs.cache
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.AssemblyInfo.cs
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.dll
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\ref\VanGoluCanavari.Entity.dll
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.pdb
+C:\Users\Okan Karakoç\source\repos\VanGoluCanavari\VanGoluCanavari.Entity\obj\Debug\net5.0\VanGoluCanavari.Entity.csproj.AssemblyReference.cache
